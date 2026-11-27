@@ -1,0 +1,16 @@
+com\imagetool\image\Image.class
+com\imagetool\error\ErrorCode.class
+com\imagetool\image\SbuReader.class
+com\imagetool\error\ImageToolException.class
+com\imagetool\cli\CliParser.class
+com\imagetool\ops\CopyOperation.class
+com\imagetool\image\ImageIoReader.class
+com\imagetool\image\SbuWriter.class
+com\imagetool\ops\TextRenderOperation.class
+com\imagetool\image\PpmWriter.class
+com\imagetool\Main.class
+com\imagetool\image\PpmReader.class
+com\imagetool\image\ImageIoWriter.class
+com\imagetool\ops\PasteOperation.class
+com\imagetool\cli\CliOptions.class
+com\imagetool\font\BitmapFont.class

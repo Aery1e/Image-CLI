@@ -1,0 +1,16 @@
+C:\Users\terry\Documents\GitHub\Image CLI\src\main\java\com\imagetool\cli\CliOptions.java
+C:\Users\terry\Documents\GitHub\Image CLI\src\main\java\com\imagetool\cli\CliParser.java
+C:\Users\terry\Documents\GitHub\Image CLI\src\main\java\com\imagetool\error\ErrorCode.java
+C:\Users\terry\Documents\GitHub\Image CLI\src\main\java\com\imagetool\error\ImageToolException.java
+C:\Users\terry\Documents\GitHub\Image CLI\src\main\java\com\imagetool\font\BitmapFont.java
+C:\Users\terry\Documents\GitHub\Image CLI\src\main\java\com\imagetool\image\Image.java
+C:\Users\terry\Documents\GitHub\Image CLI\src\main\java\com\imagetool\image\ImageIoReader.java
+C:\Users\terry\Documents\GitHub\Image CLI\src\main\java\com\imagetool\image\ImageIoWriter.java
+C:\Users\terry\Documents\GitHub\Image CLI\src\main\java\com\imagetool\image\PpmReader.java
+C:\Users\terry\Documents\GitHub\Image CLI\src\main\java\com\imagetool\image\PpmWriter.java
+C:\Users\terry\Documents\GitHub\Image CLI\src\main\java\com\imagetool\image\SbuReader.java
+C:\Users\terry\Documents\GitHub\Image CLI\src\main\java\com\imagetool\image\SbuWriter.java
+C:\Users\terry\Documents\GitHub\Image CLI\src\main\java\com\imagetool\Main.java
+C:\Users\terry\Documents\GitHub\Image CLI\src\main\java\com\imagetool\ops\CopyOperation.java
+C:\Users\terry\Documents\GitHub\Image CLI\src\main\java\com\imagetool\ops\PasteOperation.java
+C:\Users\terry\Documents\GitHub\Image CLI\src\main\java\com\imagetool\ops\TextRenderOperation.java

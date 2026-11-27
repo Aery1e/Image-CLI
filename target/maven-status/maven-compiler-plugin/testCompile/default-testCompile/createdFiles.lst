@@ -1,0 +1,6 @@
+com\imagetool\cli\CliParserTest.class
+com\imagetool\image\SbuRoundTripTest.class
+com\imagetool\image\PpmRoundTripTest.class
+com\imagetool\MainImageFormatTest.class
+com\imagetool\image\ImageIoRoundTripTest.class
+com\imagetool\ops\CopyPasteTest.class
